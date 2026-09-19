@@ -2,6 +2,10 @@
 
 一个安静、克制的单页纪念网站。直接编辑 `index.html` 中的姓名、年份、故事与留言即可定制。
 
+## 在线访问
+
+https://grandpa-memorial-shihaotian8881-8451s-projects.vercel.app
+
 ## 本地预览
 
 双击 `index.html`，或在目录中运行任意静态文件服务器。
